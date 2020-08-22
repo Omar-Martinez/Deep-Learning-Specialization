@@ -1,2 +1,2 @@
-# Deep-Learning-Specialization
-Deep Learning Specialization Coursera Assigments
+# Deep Learning Specialization
+[Deep Learning Specialization Coursera Assigments](https://www.coursera.org/specializations/deep-learning?utm_source=gg&utm_medium=sem&utm_content=17-DeepLearning-LATAM&campaignid=6516520287&adgroupid=77982690923&device=c&keyword=coursera%20deep%20learning%20ai&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=383456052668&hide_mobile_promo&gclid=EAIaIQobChMI8NvXiP-u6wIV1YtaBR1brgwLEAAYASAAEgKOZ_D_BwE)
