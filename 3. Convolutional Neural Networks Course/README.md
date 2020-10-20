@@ -22,3 +22,6 @@ Built a face recognition system using many of the ideas coming from FaceNet (A n
 - Implementing the triplet loss function
 - Useing a pretrained model to map face images into 128-dimensional encodings
 - Using these encodings to perform face verification and face recognition
+
+### [Art Generation Style Transfer](https://github.com/Omar-Martinez/Deep-Learning-Specialization/blob/master/3.%20Convolutional%20Neural%20Networks%20Course/week4/Neural%20Style%20Transfer/Art_Generation_with_Neural_Style_Transfer_v3a.ipynb)
+Implemented the neural style transfer algorithm presented in Gatys et al. (2015) and generate novel artistic images .
