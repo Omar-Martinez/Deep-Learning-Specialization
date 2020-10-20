@@ -82,7 +82,7 @@ Built a face recognition system using many of the ideas coming from FaceNet (A n
 ### [Art Generation Style Transfer](https://github.com/Omar-Martinez/Deep-Learning-Specialization/blob/master/3.%20Convolutional%20Neural%20Networks%20Course/week4/Neural%20Style%20Transfer/Art_Generation_with_Neural_Style_Transfer_v3a.ipynb)
 Implemented the neural style transfer algorithm presented in Gatys et al. (2015) and generate novel artistic images .
 
-## 4. [Sequence Models Course](https://github.com/Omar-Martinez/Deep-Learning-Specialization/tree/master/4.%20Sequence%20Models%20Course%20)
+## 5. [Sequence Models Course](https://github.com/Omar-Martinez/Deep-Learning-Specialization/tree/master/4.%20Sequence%20Models%20Course%20)
 Learned how to build models for natural language, audio, and other sequence data. The course focused on:
 - Understanding how to build and train Recurrent Neural Networks (RNNs), and commonly-used variants such as GRUs and LSTMs. 
 - Applying sequence models to natural language problems, including text synthesis. 
